@@ -1,0 +1,19 @@
+.lineContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.coluna {
+    width: 100%;
+}
+.cardNotFlipped{
+    width: 150px;
+    height: 150px;
+    border: solid;
+    background-color: cyan;
+}
+.cardFlipped {
+    width: 150px;
+    height: 150px;
+    border: solid;
+}
